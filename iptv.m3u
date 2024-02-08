@@ -187,112 +187,56 @@ http://482254085351540940.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/540940.ts
 http://482254085351321251.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321251.ts
 
 #EXTINF:-1 tvg-id="AXN" group-title="Series y Pelicula" ch-number="39" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/AXN",AXN
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5c67c13bc3c442b092e4906cb01b344f:d2fdc0f0dacbe6180a479526657d7a6f
-https://1axn-dash-movistarplus.emisiondof6.com/dash/1axn.isml/manifest.mpd
+http://482254085351321119.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321119.ts
 
 #EXTINF:-1 tvg-id="AXN MOVIES" group-title="Series y Pelicula" ch-number="46" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/SET",AXN MOVIES
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3627b1398b714e0ba2d950ac238ae72d:35028469e77902718cff04c81ae7bea0
-https://moviesaxn-dash-movistarplus.emisiondof6.com/dash/moviesaxn.isml/manifest.mpd
+http://482254085351538659.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/538659.ts
 
 #EXTINF:-1 tvg-id="WARNER TV" group-title="Series y Pelicula" ch-number="40" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TNT",WARNER TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cdcc9285b9b04270977a9278bd6b1168:fdc92cc2ba77e0c106f98a3143fa4f57
-https://tvwarner-dash-movistarplus.emisiondof6.com/dash/tvwarner.isml/manifest.mpd
+http://482254085351658853.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/658853.ts
 
 #EXTINF:-1 tvg-id="SYFY" group-title="Series y Pelicula" ch-number="44" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/SCI-FI",SYFY
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b5227c110fc4af5b506e6a6c7791da1:fce863b6daf0a9190db85ecede2481f6
-https://syfy-dash-movistarplus.emisiondof6.com/dash/syfy.isml/manifest.mpd
+http://482254085351661602.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/661602.ts
 
 #EXTINF:-1 tvg-id="AMC" group-title="Series y Pelicula" ch-number="45" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/AMC",AMC
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4731f1896bb14771afbd1c71c22f2aa2:b1fa646ebe218d19658b3e313a498593
-https://1amc-dash-movistarplus.emisiondof6.com/dash/1amc.isml/manifest.mpd
+http://482254085351321103.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321103.ts
 
 #EXTINF:-1 tvg-id="AMC BREAK" group-title="Series y Pelicula" ch-number="87" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BIOGRA",AMC BREAK
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d28d2ee92c34669ac4ed380cbc2f316:284a3bba9acabc6109282bd866d2b80c
-https://breakamc-dash-movistarplus.emisiondof6.com/dash/breakamc.isml/manifest.mpd
+http://482254085351336284.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/336284.ts
 
 
 
 #EXTINF:-1 tvg-id="AMC CRIME" group-title="Series y Pelicula" ch-number="90" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CYM",AMC CRIME
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=50d9708d9d814d919a2af457060dc55e:0358f48f4a93b5f999bfc58699ea15ec
-https://crimeamc-dash-movistarplus.emisiondof6.com/dash/crimeamcor.isml/manifest.mpd
+http://482254085351386495.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/386495.ts
+
+
+#EXTINF:-1 tvg-id="AMC WHITE" group-title="Series y Pelicula" ch-number="90" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CYM",AMC CRIME
+http://482254085351321116.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321116.ts
 
 
 #EXTINF:-1 tvg-id="Canal HOLLYWOOD HD" group-title="Series y Pelicula" ch-number="31" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/HOLLYW",HOLLYWOOD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=860293580cdc418db2c1190b28b28889:dcc703e3cd2b9f67379c1165596cc598
-https://hollywood-dash-movistarplus.emisiondof6.com/dash/hollywood.isml/manifest.mpd
+http://482254085351321266.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321266.ts
 
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" group-title="Series y Pelicula" ch-number="41" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/PCM",COMEDY CENTRAL
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18a265a968c34a0a87218ac68579cc78:77d5e68a667e5180c86cfe9e494bd54d
-https://comedycentral-dash-movistarplus.emisiondof6.com/dash/comedycentral.isml/manifest.mpd
+http://482254085351321184.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321184.ts
 
 #EXTINF:-1 tvg-id="CALLE 13" group-title="Series y Pelicula" ch-number="42" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CL13",CALLE 13
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11d973f3e8d94bf49744dfe70c8586a7:897248d27630e5b35b37e5aa3a600c1d
-https://calle13-dash-movistarplus.emisiondof6.com/dash/calle13.isml/manifest.mpd
+http://482254085351321139.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321139.ts
 
 #EXTINF:-1 tvg-id="Paramount Network" group-title="Series y Pelicula" ch-number="36" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/PARCH",PARAMOUNT NETWORK
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82de8500b55a4a6aa18a7d97b525c93f:f1beb39f5d8fcf996e93287096eb0d25
-https://paramount-dash-movistarplus.emisiondof6.com/dash/paramountor.isml/manifest.mpd
+http://482254085351630823.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/630823.ts
 
 #EXTINF:-1 tvg-id="TCM" group-title="Series y Pelicula" ch-number="30" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TCM",TCM
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d239eaec11d44dc49e8f74af0e7330a7:b791a8447d030d7855f9e231886cb973
-https://tcm-dash-movistarplus.emisiondof6.com/dash/tcm.isml/manifest.mpd
+http://482254085351321426.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321426.ts
 
 #EXTINF:-1 tvg-id="XTRM" group-title="Series y Pelicula" ch-number="32" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/XTRM",XTRM
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d821dad4e62c4dc695e1ff7819a3656e:bf7747c3f1cd4ad94f461e83d5c5888c
-https://xtrm-dash-movistarplus.emisiondof6.com/dash/xtrm.isml/manifest.mpd
+http://482254085351321477.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321477.ts
 
 #EXTINF:-1 tvg-id="SUNDANCE TV" group-title="Series y Pelicula" ch-number="33" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/SUNDAN",SUNDANCE TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00985a2a9f724f07b7d1d433d52bd216:5edfd7675466f31b87157ee1f69d5f10
-https://sundance-dash-movistarplus.emisiondof6.com/dash/sundance.isml/manifest.mpd
+http://482254085351321419.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321419.ts
 
 #EXTINF:-1 tvg-id="ENFAMILIA" group-title="Series y Pelicula" ch-number="99" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/PANDA",ENFAMILIA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5969b9b5d5094e95b285f6f10e47b85d:3bdd76952eb0339cc470f50e1067f5f7
-https://enfamilia-dash-movistarplus.emisiondof6.com/dash/enfamilia.isml/manifest.mpd
+http://482254085351399757.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/399757.ts
 
 
 
@@ -312,46 +256,22 @@ https://enfamilia-dash-movistarplus.emisiondof6.com/dash/enfamilia.isml/manifest
 
 
 #EXTINF:-1 tvg-id="Dreamworks" group-title="Infantiles" ch-number="115" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DWSP",Dreamworks
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c069fd82dbe4ac98aa7479322c55f03:a7298938f60688f3575ab9b41da57707
-https://dreamworks-dash-movistarplus.emisiondof6.com/dash/dreamworks.isml/manifest.mpd
+http://482254085351447583.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/447583.ts
 
 #EXTINF:-1 tvg-id="CLAN" group-title="Infantiles" ch-number="118" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CLANTV",CLAN TVE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2c26542852c4333aec68e83844f3bb1:e6fe84029e6e2e0e2038cefe1b5daa85
-https://clan-dash-movistarplus.emisiondof6.com/dash/clan.isml/manifest.mpd
+http://482254085351658816.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/658816.ts
 
 #EXTINF:-1 tvg-id="BOING" group-title="Infantiles" ch-number="117" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BOING",BOING
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=38132dfbd1eb40738d9a474f7e0de4e3:2460d0660fe5e678f2158253411a6f35
-https://boing-dash-movistarplus.emisiondof6.com/dash/boingor.isml/manifest.mpd
+http://482254085351594642.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/594642.ts
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL HD" group-title="Infantiles" ch-number="116" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DCH",DISNEY CHANNEL HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=067527b8b0d9417eab5df8b2c44cce93:dcb33c1b9c6b8964650e08c33b909074
-https://disneychannel-dash-movistarplus.emisiondof6.com/dash/disneychannel.isml/manifest.mpd
+http://482254085351438015.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/438015.ts
 
 #EXTINF:-1 tvg-id="DISNEY Junior" group-title="Infantiles" ch-number="111" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/PLAYDC",DISNEY JUNIOR
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6a165dec8d64c1b9e7c4f13641384db:0046d12ca01ab10af602dc401bd70fab
-https://jrdisney-dash-movistarplus.emisiondof6.com/dash/jrdisney.isml/manifest.mpd
+http://482254085351321217.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321217.ts
 
 #EXTINF:-1 tvg-id="NICKELODEON" group-title="Infantiles" ch-number="114" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NICK",NICKELODEON
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=162cdd5d692648ce8c1e6328d1c68ec7:1df5a6f6188dd9be7c86f05c9501e088
-https://nickelodeon-dash-movistarplus.emisiondof6.com/dash/nickelodeon.isml/manifest.mpd
+http://482254085351321381.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321381.ts
 
 #EXTINF:-1 tvg-id="NICK JR" group-title="Infantiles" ch-number="113" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NICKJR",NICK JR
 #KODIPROP:inputstream=inputstream.adaptive
@@ -361,15 +281,12 @@ https://nickelodeon-dash-movistarplus.emisiondof6.com/dash/nickelodeon.isml/mani
 https://jrnick-dash-movistarplus.emisiondof6.com/dash/jrnick.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="BABY TV" group-title="Infantiles" ch-number="110" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BABY",BABY TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2a25461a05df426e8a5948844e773ef0:d5fdfe91ab048311db22684428ca5dc7
-https://babytv-dash-movistarplus.emisiondof6.com/dash/babytvor.isml/manifest.mpd
+http://482254085351573238.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/573238.ts
 
 
 
-
+#EXTINF:-1 tvg-id="CANAL PANDA" group-title="Infantiles" ch-number="114" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NICK",NICKELODEON
+http://482254085351321162.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321162.ts
 
 
 
@@ -832,39 +749,19 @@ https://2golf-dash-movistarplus.emisiondof6.com/dash/2golf.isml/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="MTV ESPA�A" group-title="Musicales" ch-number="120" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MTV",MTV ESPAÑA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c692de2478e4b778597781d0fce1435:1a1e4760aa222f762222a853e18726c7
-https://mtv-dash-movistarplus.emisiondof6.com/dash/mtvor.isml/manifest.mpd
+http://482254085351465442.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/465442.ts
 
 #EXTINF:-1 tvg-id="MTV 00s" group-title="Musicales" ch-number="121" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/VH1",MTV 00s
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f9bdeacdf1f04253afbadc6c018029c5:e66bb689e3b7eef63ae3476952a718de
-https://00smtv-dash-movistarplus.emisiondof6.com/dash/00smtvor.isml/manifest.mpd
+http://482254085351658835.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/658835.ts
 
 #EXTINF:-1 tvg-id="MEZZO" group-title="Musicales" ch-number="123" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MEZZO",MEZZO
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0268ddf1676481bad3facdc1ba246c8:c0efffbc6dd83811a2b626ecdae6fc7f
-https://sdmezzo-dash-movistarplus.emisiondof6.com/dash/sdmezzoor.isml/manifest.mpd
+http://482254085351653201.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/653201.ts
 
 #EXTINF:-1 tvg-id="MEZZO LIVE HD" group-title="Musicales" ch-number="124" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MEZOHD",MEZZO LIVE HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=022d47265cf5437cb20f4df44760d82b:54c53b33b3cc6603f371ba901546a2ec
-https://livehdmezzo-dash-movistarplus.emisiondof6.com/dash/livehdmezzo.isml/manifest.mpd
+http://482254085351384247.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/384247.ts
 
 #EXTINF:-1 tvg-id="CLASSICA" group-title="Musicales" ch-number="125" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CLASSI",CLASSICA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a94594a44f91419796d0011b465de529:3b97d54fd84a8aaef5fdf84140b31ba1
-https://clasica-dash-movistarplus.emisiondof6.com/dash/clasica.isml/manifest.mpd
+http://482254085351321181.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321181.ts
 
 
 
@@ -905,76 +802,38 @@ https://clasica-dash-movistarplus.emisiondof6.com/dash/clasica.isml/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="CAZA Y PESCA" group-title="Movistar Plus+" ch-number="77" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CAZPES",CAZA Y PESCA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e08814a33e4842d29cb6d4cf97af6f36:4d40de76240002f6f0dfbccd5e145476
-https://cazaypesca-dash-movistarplus.emisiondof6.com/dash/cazaypesca.isml/manifest.mpd
+http://482254085351321169.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321169.ts
+
+#EXTINF:-1 tvg-id="CAZAVISION" group-title="Movistar Plus+" ch-number="77" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CAZPES",CAZA Y PESCA
+http://482254085351598197.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/598197.ts
 
 #EXTINF:-1 tvg-id="UBEAT" group-title="Movistar Plus+" ch-number="80" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/UBEAT",UBEAT
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4a13ec19f39a47da96d677511edc0116:17711d7880e6a9d896579125d33427bf
-https://ubeat-dash-movistarplus.emisiondof6.com/dash/ubeat.isml/manifest.mpd
+http://482254085351648496.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/648496.ts
 
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" group-title="Movistar Plus+" ch-number="82" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NATGEO",NATIONAL GEOGRAPHIC HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e39d52703f1b4e9cb5f34a0eb56a3478:e839f4872457b1afcd55f388ceaeac7a
-https://geonat-dash-movistarplus.emisiondof6.com/dash/geonat.isml/manifest.mpd
+http://482254085351321372.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321372.ts
 
 #EXTINF:-1 tvg-id="NAT GEO WILD" group-title="Movistar Plus+" ch-number="83" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NATGW",NAT GEO WILD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf2c80cf84354ed9aa04d1fdc66b1757:085ae5451f91d892e8e9406dd951e968
-https://wildnatgeo-dash-movistarplus.emisiondof6.com/dash/wildnatgeo.isml/manifest.mpd
+http://482254085351383263.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/383263.ts
 
 #EXTINF:-1 tvg-id="HISTORIA" group-title="Movistar Plus+" ch-number="84" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/HIST",HISTORIA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8fd058ba1dab4425aed80f19ed28fa71:905d498800923549e1724d606e15da8f
-https://historia-dash-movistarplus.emisiondof6.com/dash/historia.isml/manifest.mpd
+http://482254085351321157.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321157.ts
 
 #EXTINF:-1 tvg-id="DISCOVERY" group-title="Movistar Plus+" ch-number="85" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DCR",DISCOVERY
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0e79a01f8f1f42588f79b3e07403ec84:3efefd3e15e5edba00be6673363b831c
-https://discovery-dash-movistarplus.emisiondof6.com/dash/discoveryor.isml/manifest.mpd
+http://482254085351384244.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/384244.ts
 
 #EXTINF:-1 tvg-id="ODISEA" group-title="Movistar Plus+" ch-number="86" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ODISEA",ODISEA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7cda51c80be546c79fc1b3279a1cbb70:f15bd75ce1f4ef04ed42df4a83a4de5a
-https://odisea-dash-movistarplus.emisiondof6.com/dash/odiseaor.isml/manifest.mpd
-
+http://482254085351542581.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/542581.ts
 
 
 #EXTINF:-1 tvg-id="BuenViaje" group-title="Movistar Plus+" ch-number="91" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BUENV",BuenViaje
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6cfa89d8fa8c4ae39ff6bd74f23a9234:1bcbffdb91b5d91bd46c6cac1bb23950
-https://buenviaje-dash-movistarplus.emisiondof6.com/dash/buenviajeor.isml/manifest.mpd
+http://482254085351573239.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/573239.ts
 
 #EXTINF:-1 tvg-id="CANAL COCINA" group-title="Movistar Plus+" ch-number="92" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CACOC",CANAL COCINA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4074ed3a5d3541d68b9a06a391c519ea:0215a508f3925cb98ab7be64f7e55aba
-https://cocina-dash-movistarplus.emisiondof6.com/dash/cocina.isml/manifest.mpd
+http://482254085351321148.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321148.ts
 
 #EXTINF:-1 tvg-id="DECASA" group-title="Movistar Plus+" ch-number="93" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DECASA",CANAL DECASA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a7489f77bde4f62867a3bad923e5498:452f2f349202408abb0936c92bd20b76
-https://decasa-dash-movistarplus.emisiondof6.com/dash/decasa.isml/manifest.mpd
+http://482254085351321153.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321153.ts
 
 
 
@@ -1319,11 +1178,7 @@ https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
 
 #EXTINF:-1 tvg-id="EL TORO TV" group-title="Movistar Plus+" ch-number="139" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/INTECO",EL TORO TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d43fb49639b4ac3a53251848bceef3c:4b70c8291cecaad4350882d1a64aea96
-https://eltorotv-dash-movistarplus.emisiondof6.com/dash/eltorotv.isml/manifest.mpd
+http://482254085351321232.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321232.ts
 
 #EXTINF:-1 tvg-id="NEGOCIOS TV" group-title="Movistar Plus+" ch-number="140" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NEGOTV",NEGOCIOS TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1401,11 +1256,16 @@ http://959318160705441850.of0828.xyz:80/play/mi0204106/47W3FEnt94q/441850.ts
 
 
 
+#EXTINF:-1 tvg-id="TOROS HD" group-title="Movistar Plus+" ch-number="191" tvg-logo="https://www.infotauro.com/wp-content/uploads/2023/07/OneToro-2-860x430.jpg",ONETORO TV FHD
+http://482254085351321446.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321446.ts
 
 
+#EXTINF:-1 tvg-id="MUNDOTOROS HD" group-title="Movistar Plus+" ch-number="191" tvg-logo="https://www.infotauro.com/wp-content/uploads/2023/07/OneToro-2-860x430.jpg",ONETORO TV FHD
+http://482254085351441851.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/441851.ts
 
 
-
+#EXTINF:-1 tvg-id="TOROLE TV HD" group-title="Movistar Plus+" ch-number="191" tvg-logo="https://www.infotauro.com/wp-content/uploads/2023/07/OneToro-2-860x430.jpg",ONETORO TV FHD
+http://482254085351539877.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/539877.ts
 
 
 
